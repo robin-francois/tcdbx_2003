@@ -6,7 +6,7 @@ This is a CSV conversion + utf-8 transcoding of the original XLSX database : htt
 TCDB was originally a shareware but the data has since been freely shared, as stated on the website: https://www.lacikam.co.il/tcdb/  
 ```tcdb is obsolete since 2003 and the emerging of OS X. The Excel source file with all the data can be downloaded for free```
 
-According to the Wikipedia "Creator code" page (https://en.wikipedia.org/wiki/Creator_code):
+According to the Wikipedia "Creator code" page (https://en.wikipedia.org/wiki/Creator_code):  
 A creator code is a mechanism introduced in the classic Mac OS to link a data file to the application program which created it.
 The similar type code held the file type, like "TEXT". Together, the type and creator indicated what application should be used to open a file, similar to (but richer than) the file extensions in other operating systems. 
 Creator codes are four-byte OSTypes. They allow applications to launch and open a file whenever any of their associated files is double-clicked.
